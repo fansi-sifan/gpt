@@ -1,19 +1,74 @@
-functions
-unknown
-finance
-engineering
-customer success
-retail
-operations
-design
-sales
-marketing
-administration
-support
-product
-general management
-HR
-commercial management
-analytics
-recruiting
-legal
+func_parent,functions,subfunctions,n
+G&A,HR,HR-unknown,6649
+G&A,HR,comp & ben,682
+G&A,HR,l&d/talent management,568
+G&A,administration,administration-unknown,5273
+G&A,administration,administration/facilities,7316
+G&A,administration,it,2659
+G&A,finance,finance-unknown,562
+G&A,finance,fp&a/accounting,9449
+G&A,finance,strategic finance,1072
+G&A,general management,bizops/coo,4018
+G&A,general management,ceo,108
+G&A,general management,corporate development/strategy,2874
+G&A,general management,general,1690
+G&A,general management,general management-unknown,818
+G&A,legal,legal-unknown,3003
+G&A,recruiting,recruiting-unknown,13014
+GTM,commercial management,general/regional manager,1628
+GTM,customer success,account management,27027
+GTM,customer success,customer success-unknown,6866
+GTM,customer success,professional services,3993
+GTM,customer success,training,1357
+GTM,marketing,brand,2291
+GTM,marketing,comms & pr,2834
+GTM,marketing,community & social,4862
+GTM,marketing,content,5013
+GTM,marketing,developer relations,178
+GTM,marketing,events,450
+GTM,marketing,growth marketing,3304
+GTM,marketing,marketing-unknown,12796
+GTM,marketing,performance marketing,1893
+GTM,marketing,policy / public affairs,412
+GTM,marketing,product marketing,1937
+GTM,sales & bizdev,business development-unknown,9516
+GTM,sales & bizdev,field sales,2481
+GTM,sales & bizdev,inside sales,2384
+GTM,sales & bizdev,sales engineering,2595
+GTM,sales & bizdev,sales ops,2462
+GTM,sales & bizdev,sales-unknown,16000
+GTM,sales & bizdev,sdr/bdr,7069
+Operations,other operations,"community admin, trust & safety",1392
+Operations,other operations,distribution/fulfilment/supply chain,3824
+Operations,other operations,front line / retail assistant,2340
+Operations,other operations,manufacturing/production,175
+Operations,other operations,market/site ops,3209
+Operations,other operations,merchandising,1523
+Operations,other operations,operations-unknown,26563
+Operations,other operations,"payments & compliance (kyc, aml, fraud, billing, etc)",4815
+Operations,other operations,photography & text editing,1146
+Operations,other operations,procurement/buying,1343
+Operations,other operations,"professional specialists (doctors, opticians, nurses, etc)",2413
+Operations,support,customer support,35359
+Operations,support,technical support,5443
+Technical,analytics,analytics-unknown,4442
+Technical,analytics,bi / business information,3139
+Technical,analytics,data science,5326
+Technical,analytics,marketing,512
+Technical,analytics,product,168
+Technical,design,design-unknown,2727
+Technical,design,ux/product,7080
+Technical,design,visual/graphic,4549
+Technical,engineering,ai/ml,1274
+Technical,engineering,backend,2313
+Technical,engineering,data engineering,97
+Technical,engineering,devops/techops,2958
+Technical,engineering,engineering-unknown,20136
+Technical,engineering,frontend,3335
+Technical,engineering,full-stack,35391
+Technical,engineering,hardware,374
+Technical,engineering,mobile,6046
+Technical,engineering,qa/testing,4441
+Technical,engineering,security & privacy,2181
+Technical,product,product-unknown,14369
+unknown,unknown,unknown-unknown,27110
